@@ -1,10 +1,10 @@
-# ShareMe - Your Photography Sharing Platform
+# PhotoGraphy - Your Photography Sharing Platform
 
-Welcome to ShareMe, a social media platform designed for sharing your photography with the world. ShareMe provides a seamless experience for photographers of all levels to showcase their work, connect with like-minded individuals, and discover inspiring images from around the globe.
+Welcome to PhotoGraphy, a social media platform where you can share your photography with the world. Photography provides a seamless experience for photographers of all levels to showcase their work, connect with like-minded individuals, and discover inspiring images from around the globe.
 
 ## Features
 
-- **Upload Photos:** ShareMe allows users to upload their favorite photos directly from their device or camera.
+- **Upload Photos:** PhotoGraphy allows users to upload their favorite photos directly from their device or camera.
 - **Discover Feed:** Explore a curated feed of stunning photography from users worldwide.
 - **Like and Comment:** Interact with other users by liking and commenting on their photos.
 - **Follow Users:** Stay updated with the latest uploads from your favorite photographers by following them.
